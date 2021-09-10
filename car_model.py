@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ie2fR9mQTDn-yMa2rD2aDmnki39yZfPN
 """
 
-! git clone https://github.com/github-user-x/DATA
+! git clone https://github.com/ssiwach8888/SD_Cars_Training_Data
 
 ! ls DATA
 
